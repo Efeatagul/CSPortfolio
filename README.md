@@ -19,7 +19,7 @@ As an independent researcher in computational neuroscience, I build low-level to
 
 ###  Tech Stack & Tools
 * **Core Languages:** C#, Python
-* **Working Knowledge (Project-Based):** Rust, Java, Kotlin
+* **Working Knowledge (Project-Based):** Rust, Java,
 * **Familiar With:** HTML, Arduino, Astro, Shell (Bash/Shell), QML, Kotlin
 * **Core Focus:** Compiler Design, Systems Architecture, Brain Simulation, Computational Neuroscience
 * **Tools & Environments:** .NET Framework, Git, Archiso, Linux, Kaggle, VS Code, Pylint, JSON
